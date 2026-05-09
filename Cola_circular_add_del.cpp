@@ -1,5 +1,6 @@
 
-//  En el siguiente código implementa el método ADD y DEL de la clase CircularLinkedList que es una lista circular ordenada.
+//  En el siguiente código implementa el método ADD y DEL de la 
+//clase CircularLinkedList que es una lista circular ordenada.
 #include <iostream>
 using namespace std;
 
